@@ -15,7 +15,7 @@ Explore various supervised learning algorithms and understand how to train, test
 Study model evaluation metrics, cross-validation techniques, and strategies to prevent overfitting.
 
 **Final Project and Exam**
-Apply your knowledge to a hands-on project and complete the final assessment.
+Apply knowledge to a hands-on project and complete the final assessment.
 
   
               
