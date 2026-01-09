@@ -31,7 +31,7 @@ Each notebook demonstrates a different aspect of data handling in deep learning 
 
 ---
 
-## 🔄 Memory-Based vs. Generator-Based Data Loading
+##  Memory-Based vs. Generator-Based Data Loading
 
 ### Memory-Based Data Loading
 - Loads the entire dataset into memory before training
